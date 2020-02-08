@@ -1,0 +1,8 @@
+{
+    "port": "/dev/cu.SLAB_USBtoUART",
+    "board": "esp32:esp32:esp32doit-devkit-v1",
+    "programmer": "AVRISP mkII",
+    "configuration": "FlashFreq=80,UploadSpeed=921600,DebugLevel=none",
+    "sketch": "Pepperkakehus_2019_web.ino",
+    "output": "./ArduinoOutput"
+}
